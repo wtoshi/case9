@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05bf9f7910e215469a6355ee4826f12, type: 3}
+  m_Name: ElectricTower
+  m_EditorClassIdentifier: 
+  id: 1
+  towerName: Electric Tower
+  towerDescription: Electric Tower Description
+  towerIcon: {fileID: 21300000, guid: 865799d51425cea4caf3259fb3dd572b, type: 3}
+  modelPrefab: {fileID: 8902444194931853291, guid: f8b73edd7a662fe4e82ec8c22f6f6806, type: 3}
+  maxHealth: 250
+  damageModifier: 1
+  rangeModifier: 1
+  attackSpeedModifier: 1
+  Abilities:
+  - {fileID: 11400000, guid: 8ae6e9663df08644b9cc4f9474ccd23f, type: 2}
+  - {fileID: 11400000, guid: da80ba2c819e8934e8476daf58f1b331, type: 2}
+  - {fileID: 11400000, guid: 3097e0cbe26d7ee49bf46b119e2977de, type: 2}

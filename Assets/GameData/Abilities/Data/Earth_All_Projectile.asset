@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b63b3414dca824faeb8d76ffafa073, type: 3}
+  m_Name: Earth_All_Projectile
+  m_EditorClassIdentifier: 
+  id: 12
+  abilityName: earth_all_projectile
+  displayName: Earth All Projectile
+  minLevel: 3
+  mechanicType: 2
+  targetType: 3
+  projectilePrefab: {fileID: 131830, guid: da5b218f99284e34ab7f7865855c3675, type: 3}
+  projectilePrefabScale: {x: 0.2, y: 0.2, z: 0.2}
+  useSocket: 1
+  projectileSocketType: 0
+  projectilePositionOffset: {x: 0, y: 0, z: 0}
+  useHitSocket: 0
+  hitSocketType: 0
+  hitPositionOffset: {x: 0, y: 0, z: 0}
+  hitPrefab: {fileID: 198426, guid: 6bc2e172492149640a2926574ed89f4f, type: 3}
+  hitPrefabScale: {x: 0.2, y: 0.2, z: 0.2}
+  abilityIcon: {fileID: 21300000, guid: 890962caa78fa4e429afb91f5eb2a29c, type: 3}
+  effects:
+  - {fileID: 11400000, guid: 27275bbe65e70904d93416b02bb0c00b, type: 2}
+  shotClip: {fileID: 8300000, guid: dd30a461a11d56747a4134958098b8a7, type: 3}
+  hitClip: {fileID: 8300000, guid: 88c53e02169689044bcb629a8f5963fd, type: 3}
+  attachSoundToProjectile: 0
+  useGravity: 0
+  range: 10
+  projectileDuration: 5
+  explosive: 0
+  explosionRadius: 0
+  speed: 3
+  cooldown: 5

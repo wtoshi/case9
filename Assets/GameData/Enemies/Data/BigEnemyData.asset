@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7036d66f91a4e84083724fce3bcaf7d, type: 3}
+  m_Name: BigEnemyData
+  m_EditorClassIdentifier: 
+  id: 2
+  enemyName: Big Enemy
+  description: Big Enemy
+  enemyLevel: 6
+  health: 100
+  speed: 2
+  attackDistance: 2
+  attackPower: 10
+  attackSpeed: 1
+  modelPrefab: {fileID: 2125061760934999013, guid: 4b7a2ae2928a1244b81608bcb334d797, type: 3}
+  icon: {fileID: 0}
+  experienceReward: 25
+  goldReward: 0

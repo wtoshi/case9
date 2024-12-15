@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\ui\\towerselection\\listtoweritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\towerselection\\listtoweritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\data\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\ui\\game\\combatbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\game\\combatbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\tower\\towerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower\\towerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\enemies\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\tower\\towercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower\\towercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\gamedata\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamedata\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\combat\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|d:\\projects\\tasks\\magicaltower\\magicaltowercase\\assets\\scripts\\ui\\roundui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\roundui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\utilities\\gameentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\gameentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\managers\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|d:\\projects\\tasks\\magicaltower\\magicaltowercase\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\tower\\towerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower\\towerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\tower\\towercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower\\towercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\gamedata\\settings\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamedata\\settings\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\tower\\towerslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower\\towerslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\ui\\towerhealtbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\towerhealtbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\managers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\managers\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\gamedata\\towers\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamedata\\towers\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\gamedata\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamedata\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\gamedata\\effects\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamedata\\effects\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\ui\\game\\combatbuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\game\\combatbuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\ui\\towerselection\\towerselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\towerselection\\towerselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50324BC-839A-6C99-DF10-A48B10F0AC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 261,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\EventManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\EventManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:33:36.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Enemies\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyController.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Enemies\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwDsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:28:24.673Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LoadingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:35:33.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TowerController.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower\\TowerController.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower\\TowerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:23:12.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UIManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\UIManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:00:51.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:04:23.129Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SpawnManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SpawnManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:05:04.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\CombatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CombatManager.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Managers\\CombatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CombatManager.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAnwOEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:58:24.665Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\RoundUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RoundUI.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\RoundUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\RoundUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:55:31.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Combat\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Projectile.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Combat\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Projectile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:15.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Settings\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Settings\\GameSettings.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Settings\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\GameData\\Settings\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:03:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Towers\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Towers\\Tower.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Towers\\Tower.cs",
+              "RelativeToolTip": "Assets\\GameData\\Towers\\Tower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:03:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Enemies\\Enemy.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\GameData\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:03:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Effects\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Effects\\Effect.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Effects\\Effect.cs",
+              "RelativeToolTip": "Assets\\GameData\\Effects\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:03:00.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Abilities\\Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\GameData\\Abilities\\Ability.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\GameData\\Abilities\\Ability.cs",
+              "RelativeToolTip": "Assets\\GameData\\Abilities\\Ability.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:02:58.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CombatButton.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\Game\\CombatButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Game\\CombatButton.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\Game\\CombatButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Game\\CombatButton.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:50:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CombatButtonController.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\Game\\CombatButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Game\\CombatButtonController.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\Game\\CombatButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Game\\CombatButtonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:50:43.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TowerHealtBarUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerHealtBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TowerHealtBarUI.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerHealtBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TowerHealtBarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:13:55.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TowerSelectionUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerSelection\\TowerSelectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TowerSelection\\TowerSelectionUI.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerSelection\\TowerSelectionUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TowerSelection\\TowerSelectionUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:08:02.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Data\\DataController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataController.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Data\\DataController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:00:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTowerItem.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerSelection\\ListTowerItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TowerSelection\\ListTowerItem.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\UI\\TowerSelection\\ListTowerItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TowerSelection\\ListTowerItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:55:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameData.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:38:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TowerSlotController.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerSlotController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower\\TowerSlotController.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerSlotController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower\\TowerSlotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:29:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameEntries.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Utilities\\GameEntries.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\GameEntries.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Utilities\\GameEntries.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\GameEntries.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:30:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TowerLevel.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower\\TowerLevel.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower\\TowerLevel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:33:16.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TowerCombat.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower\\TowerCombat.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower\\TowerCombat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:32:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TowerHealth.cs",
+              "DocumentMoniker": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower\\TowerHealth.cs",
+              "ToolTip": "D:\\Projects\\Tasks\\MagicalTower\\MagicalTowerCase\\Assets\\Scripts\\Tower\\TowerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower\\TowerHealth.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:30:43.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

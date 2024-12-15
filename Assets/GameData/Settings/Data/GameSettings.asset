@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00386d05e8c152e469e62ae00518bb60, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  initialRound: 1
+  towers:
+  - {fileID: 11400000, guid: 2fea4f5e930088c4d88de7f67d4dfb72, type: 2}
+  - {fileID: 11400000, guid: a5fd0ea17a5974e4e8089b84b32f69ea, type: 2}
+  - {fileID: 11400000, guid: 8af8052252c7c5b4088d636c43ba27a4, type: 2}
+  enemies:
+  - {fileID: 11400000, guid: 6ad26b930711bd248b52705e8734117a, type: 2}
+  - {fileID: 11400000, guid: 06d9aecb3f9bd2249a555a9e24281f43, type: 2}
+  - {fileID: 11400000, guid: e8b408444f9199546916a91f7fc29d72, type: 2}
+  baseEnemyCount: 4
+  spawnInterval: 1
+  spawnRadius: 10
+  minSpawnDistance: 5
+  enemySpacing: 1.5
+  spawnCountIncreaseRate: 1.1
+  baseEnemyWeight: 1
+  levelWeightMultiplier: 0.01

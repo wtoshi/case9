@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05bf9f7910e215469a6355ee4826f12, type: 3}
+  m_Name: EarthTower
+  m_EditorClassIdentifier: 
+  id: 2
+  towerName: Earth Tower
+  towerDescription: Earth Tower Description
+  towerIcon: {fileID: 21300000, guid: 87c1b557af764e94fafcd94217b46a71, type: 3}
+  modelPrefab: {fileID: 4690973232093179242, guid: 648be5618afe1a74390c6703cf52e630, type: 3}
+  maxHealth: 250
+  damageModifier: 1
+  rangeModifier: 1
+  attackSpeedModifier: 1
+  Abilities:
+  - {fileID: 11400000, guid: 38fdd4679980997488b723b568e6f392, type: 2}
+  - {fileID: 11400000, guid: 302f2a9c51eac08468e4e7a6701e9b19, type: 2}
+  - {fileID: 11400000, guid: acfa3bfbdd9c2f6439b5acae0f3d6079, type: 2}
