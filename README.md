@@ -3,8 +3,7 @@
 ## 1. Overview
 The Magical Tower project is a Unity-based game that focuses on tower defense and combat mechanics. The system has been designed to be **modular**, **optimized**, and **scalable** for future expansions.
 
-- **Platform**: Unity 6 (New Input System)
-- **Target Devices**: Mobile (Android/iOS)
+- **Platform**: Unity 6 
 - **Core Technologies**: Scriptable Objects, Singleton Design Pattern, Event-Driven Architecture
 
 ---
